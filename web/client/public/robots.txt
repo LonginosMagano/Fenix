@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://limpiezaincendiosfenix.es/sitemap.xml
